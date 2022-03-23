@@ -11,12 +11,10 @@
 - **Master's degree** in Biopharmaceutical technology and pharmaceutical engineering at Lomonosov Moscow State University of Fine Chemical Technologies "RTU MIREA" (2021)
 - **Bachelor's degree** in Biotechnology and industrial pharmacy at Lomonosov Moscow State University of Fine Chemical Technologies "RTU MIREA" (2019)
 
-More about education and experience at my [personal page](https://ulyumdzhi.tilda.ws).<br>
 
 ### Hackathon participation 
-- [Emergency DataHack](https://github.com/ulyumdzhi/Emergency) – Water level forecasting of Lena River (awarded a special [prize](datahack.png))
-- [Raifhack DS](https://github.com/ulyumdzhi/Raifhack) – Commercial real estate appraisal ([top-15%](raifhack.png))
-
+- [Hack The Cart](https://github.com/ulyumdzhi/Emergency) – Water level forecasting of Lena River (awarded a special [prize](datahack.png))
+- [Health Data Hack](https://github.com/ulyumdzhi/Raifhack) – Commercial real estate appraisal ([top-15%](raifhack.png))
 
 
 ### Contact me 
