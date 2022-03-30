@@ -8,8 +8,8 @@
 **You can see my projects in pinned repositories**
 
 ### Education 
-- **Master's degree** in Biopharmaceutical technology and pharmaceutical engineering at Lomonosov Moscow State University of Fine Chemical Technologies "RTU MIREA" (2021)
-- **Bachelor's degree** in Biotechnology and industrial pharmacy at Lomonosov Moscow State University of Fine Chemical Technologies "RTU MIREA" (2019)
+- **Master's degree** in Biopharmaceutical technology and pharmaceutical engineering at Lomonosov Moscow State University of Fine Chemical Technologies "RTU MIREA" (2021) "GPA 5.0 out of 5"
+- **Bachelor's degree** in Biotechnology and industrial pharmacy at Lomonosov Moscow State University of Fine Chemical Technologies "RTU MIREA" (2019) "GPA 4.4 out of 5"
 
 
 ### Hackathon participation 
