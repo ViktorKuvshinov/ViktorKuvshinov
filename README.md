@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Viktor
-## Data Scientist
+## Data Scientist experienced in biotechnology
 **I'm working with:**
  - Data Analysis
  - Machine Learning
