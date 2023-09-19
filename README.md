@@ -15,7 +15,7 @@
 ### Hackathon participation 
 - [Hack The Cart](https://apply.hackthecart.ru/) – Building a Recommender System for e-commerce LENTA
 - [Data Sprint 68](https://dphi.tech/challenges/data-sprint-68-world-data-league-external-competition/200/overview/about) – Help classify pests in Mango farms and reduce the economic impact ([10th](https://dphi.tech/challenges/data-sprint-68-world-data-league-external-competition/200/leaderboard/practice/))
-- [Health Data Hack](https://codenrock.com/contests/hackhealth#/discussions/336) – segmentation of cancer cells in a microscopic tissue image from rectal cancer.  ([th](in progress))
+- [Health Data Hack](https://codenrock.com/contests/hackhealth#/discussions/336) – segmentation of cancer cells in a microscopic tissue image from rectal cancer.
 
 
 ### Contact me 
